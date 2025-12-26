@@ -1,0 +1,7 @@
+{
+  "name": "Heavy Machinery Maintenance Management System (Field Edition)",
+  "description": "A mobile-first management system for tracking heavy machinery maintenance, job cards, and operational costs in remote field locations with offline-first capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
